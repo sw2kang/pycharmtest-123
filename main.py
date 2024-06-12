@@ -6,4 +6,6 @@ print("hi")
 for i in range(10):
     print(i)
 
+print("new feature")
+print("new feature2")
 print("master commit")
